@@ -2,11 +2,11 @@
 
 ## How to use 🤔?
 
-Go to any quiz in the website, e.g., quiz 18 and its URL is
+Go to any quiz in the website, e.g., let say we want to solve quiz 18 and its URL:
 
-```md
+```javascript
 // quiz 18
-https://highered.mheducation.com/sites/0073376221/student_view0/chapter18/quizzes.html
+const url = `https://highered.mheducation.com/sites/0073376221/student_view0/chapter18/quizzes.html`;
 ```
 
 then press F12 and copy & paste the script after you change the line below with <YourFullNameName> & <YourIDNumber>
