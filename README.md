@@ -15,7 +15,7 @@ then press F12 and copy & paste the script after you change the line below with 
 getFullMark(getQuestionObjectArray(), 'YourFullNameName', 'YourIDNumber');
 ```
 
-## The script
+## The script 💻
 
 ```javascript
 const getFullMark = (arr, name, id) => {
@@ -43,6 +43,6 @@ const getFullMark = (arr, name, id) => {
 getFullMark(getQuestionObjectArray(), 'YourFullNameName', 'YourIDNumber');
 ```
 
-## POC
+## POC ✅
 
 ![alt img1](https://github.com/q4q0/ICS-343-Quizzes-Solver/blob/master/assets/img1.png?raw=true)
