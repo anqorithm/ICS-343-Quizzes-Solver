@@ -21,3 +21,4 @@ const getFullMark = (arr, name, id) => {
 };
 // fill <YourFullNameName> & <YourIDNumber>
 getFullMark(getQuestionObjectArray(), 'YourFullNameName', 'YourIDNumber');
+window.print()
